@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Zulfikar Achyar!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Big+Data+Enthusiast;Data+Science+Student;Problem+Solver;Always+Learning&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile+App+Developer;Big+Data+Enthusiast;IoT+Developer;Flutter+Expert;Always+Learning&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -14,53 +14,60 @@
 ## 🚀 About Me
 
 - 🎓 Student at **Politeknik Negeri Lhokseumawe**
-- 🔭 I'm currently working on **Big Data Analytics Projects**
-- 🌱 I'm currently learning **Data Science, Machine Learning, and Big Data Technologies**
-- 👯 I'm looking to collaborate on **Data Science and Big Data Projects**
-- 💬 Ask me about **Big Data, Data Analytics, Python, R**
+- 📱 Passionate **Flutter Mobile App Developer** with 10+ apps
+- 🔭 I'm currently working on **IoT Monitoring Systems & Mobile Applications**
+- 🌱 I'm currently learning **Big Data Analytics, IoT Integration, and Advanced Flutter**
+- 👯 I'm looking to collaborate on **Flutter Apps, IoT Projects, and Big Data Analytics**
+- 💬 Ask me about **Flutter, Dart, IoT, Smart Home Systems, Big Data**
 - 📍 Based in **Nanggroe Aceh Darussalam, Indonesia**
-- ⚡ Fun fact: **Data tells stories that numbers alone can't express!**
+- ⚡ Fun fact: **I love building apps that connect the physical and digital world!**
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,mongodb,git,github,vscode,linux,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,r,mysql,postgresql,mongodb,git,github,vscode,linux,docker&theme=dark" />
 </p>
 
-### Languages & Analytics
+### Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-### Big Data & Machine Learning
+### IoT & Monitoring Systems
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+
+### Big Data & Analytics
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### Data Visualization
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ### Database & Cloud
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### Tools & Environment
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -95,17 +102,42 @@
 
 ## 🎯 Current Focus Areas
 
-- 📊 **Big Data Processing** - Working with large datasets and distributed computing
-- 🤖 **Machine Learning** - Building predictive models and data-driven solutions
-- 📈 **Data Visualization** - Creating insightful charts and interactive dashboards
-- 🔍 **Data Mining** - Extracting patterns and knowledge from complex datasets
-- 📚 **Academic Research** - Contributing to data science research at Politeknik Negeri Lhokseumawe
+- 📱 **Flutter Mobile Development** - Building beautiful cross-platform applications
+- 🏠 **Smart Home & IoT Systems** - Creating intelligent monitoring solutions
+- 📊 **Big Data Processing** - Working with large datasets and analytics
+- 🔄 **Integration Projects** - Connecting mobile apps with IoT devices
+- 🛍️ **E-commerce Solutions** - Developing shopping and food delivery apps
+- 📚 **Academic Research** - Contributing to technology research at Politeknik Negeri Lhokseumawe
+
+## 🚀 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/cyator-zach/flutter-smarthome">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyator-zach&repo=flutter-smarthome&theme=radical" />
+  </a>
+  <a href="https://github.com/cyator-zach/monitoring-pasien-ino">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyator-zach&repo=monitoring-pasien-ino&theme=radical" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/cyator-zach/flutter-gerbang">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyator-zach&repo=flutter-gerbang&theme=radical" />
+  </a>
   <a href="https://github.com/cyator-zach/NET17237">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyator-zach&repo=NET17237&theme=radical" />
   </a>
 </div>
+
+## 📱 Mobile Apps Portfolio
+
+- 🏠 **Smart Home Control** - IoT-integrated home automation
+- 🏥 **Patient Monitoring** - Healthcare IoT monitoring system  
+- 🚪 **Access Control** - Smart gate/entrance management
+- 🥗 **Food Apps** - Restaurant and food delivery platforms
+- 💧 **Hydroponic Monitor** - Agricultural IoT monitoring
+- 🛒 **Shopping Apps** - E-commerce and retail solutions
+- 📊 **Data Visualization** - Analytics and reporting apps
 
 ---
 
